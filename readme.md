@@ -11,6 +11,7 @@ There is no explicit documentation yet, but all functions are documented in the 
 ├── tests: a number of 2D and 3D test cases, unrelated to the aforementioned paper
 └── utils: utility python functions
 ```
+It is required to run the tests from the main directory of this library.
 
 ### Python version used for development:
 Python version 3.9.7
